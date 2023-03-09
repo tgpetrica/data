@@ -1,5 +1,5 @@
 #### Thunkable data
 
-https://chat-6bc2d.firebaseapp.com
+https://chat-eb17e-default-rtdb.firebaseio.com
 
-AIzaSyBETM0NgQCFjTjM8tJ0-peMHvXjcW343Vg
+AIzaSyDtFcd2Nrd9YOZHTQvSpI6EMXLTJPfhUX0
